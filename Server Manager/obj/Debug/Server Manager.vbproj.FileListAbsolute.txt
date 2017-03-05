@@ -1,0 +1,10 @@
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\bin\Debug\Server Manager.exe.config
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\bin\Debug\Server Manager.exe
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\bin\Debug\Server Manager.pdb
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\bin\Debug\Server Manager.xml
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server_Manager.frmMain.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server_Manager.Resources.resources
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server Manager.vbproj.GenerateResource.Cache
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server Manager.exe
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server Manager.xml
+C:\Users\Alvaro\documents\visual studio 2013\Projects\Server Manager\Server Manager\obj\Debug\Server Manager.pdb
